@@ -6,6 +6,7 @@ public class git {
 		System.out.println("Hello Anand");
 		System.out.println("Hello Alvin");
                 System.out.println("Hello git");
+		System.out.println("Hello auto");
 
 	}
 
